@@ -1,0 +1,48 @@
+================ File Metadata ================
+cp:revision:755
+meta:last-author:Microsoft Office User
+Last-Author:Microsoft Office User
+meta:save-date:2018-03-29T05:54:00Z
+Application-Name:Microsoft Office Word
+Author:kingcobra
+dcterms:created:2016-04-22T01:49:00Z
+Application-Version:16.0000
+Character-Count-With-Spaces:14
+date:2018-03-29T05:54:00Z
+Total-Time:1207
+extended-properties:Template:Normal.dotm
+meta:line-count:1
+creator:kingcobra
+publisher:
+Word-Count:2
+meta:paragraph-count:1
+Creation-Date:2016-04-22T01:49:00Z
+extended-properties:AppVersion:16.0000
+meta:author:kingcobra
+Line-Count:1
+extended-properties:Application:Microsoft Office Word
+resourceName:doc.docx
+Paragraph-Count:1
+Last-Save-Date:2018-03-29T05:54:00Z
+Revision-Number:755
+meta:creation-date:2016-04-22T01:49:00Z
+dcterms:modified:2018-03-29T05:54:00Z
+Template:Normal.dotm
+Page-Count:1
+meta:character-count:13
+dc:creator:kingcobra
+meta:word-count:2
+extended-properties:Company:
+Last-Modified:2018-03-29T05:54:00Z
+X-Parsed-By:org.apache.tika.parser.DefaultParser
+modified:2018-03-29T05:54:00Z
+xmpTPg:NPages:1
+extended-properties:TotalTime:1207
+dc:publisher:
+Character Count:13
+meta:page-count:1
+meta:character-count-with-spaces:14
+Content-Type:application/vnd.openxmlformats-officedocument.wordprocessingml.document
+================ File Content ================
+概述
+这是一个测试文旦，gg
